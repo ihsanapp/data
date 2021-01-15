@@ -1,0 +1,214 @@
+{
+    "genderOptions": [
+        {
+            "name": "Male",
+            "value": 1
+        },
+        {
+            "name": "Female",
+            "value": 2
+        }
+    ],
+    "sectOptions": [
+        {
+            "name": "Sunni",
+            "value": 1
+        },
+        {
+            "name": "Shia",
+            "value": 2
+        },
+        {
+            "name": "Other",
+            "value": 3
+        }
+    ],
+    "maritialStatusOptions": [
+        {
+            "name": "Single",
+            "value": 1
+        },
+        {
+            "name": "Divorced",
+            "value": 2
+        },
+        {
+            "name": "Divorced with children",
+            "value": 3
+        }
+    ],
+    "ethnicityOptions": [
+        {
+            "name": "Turkish",
+            "value": 1
+        },
+        {
+            "name": "Pakistani",
+            "value": 2
+        },
+        {
+            "name": "Indian",
+            "value": 3
+        },
+        {
+            "name": "Bengali",
+            "value": 4
+        },
+        {
+            "name": "Somali",
+            "value": 5
+        },
+        {
+            "name": "Arab",
+            "value": 6
+        },
+        {
+            "name": "African",
+            "value": 7
+        },
+        {
+            "name": "Caucasian",
+            "value": 8
+        },
+        {
+            "name": "Asian",
+            "value": 9
+        },
+        {
+            "name": "Persian",
+            "value": 10
+        },
+        {
+            "name": "Latino",
+            "value": 11
+        },
+        {
+            "name": "Pashto",
+            "value": 12
+        },
+        {
+            "name": "African-American",
+            "value": 13
+        },
+        {
+            "name": "Caribbean",
+            "value": 14
+        },
+        {
+            "name": "Maldivian",
+            "value": 15
+        },
+        {
+            "name": "Indonesian",
+            "value": 16
+        },
+        {
+            "name": "Malay",
+            "value": 17
+        },
+        {
+            "name": "Uyghur",
+            "value": 18
+        },
+        {
+            "name": "Russian",
+            "value": 19
+        }
+    ],
+    "timelineOptions": [
+        {
+            "name": "Flexible",
+            "value": 1
+        },
+        {
+            "name": "Within 1 year",
+            "value": 2
+        },
+        {
+            "name": "Within 2 years",
+            "value": 3
+        },
+        {
+            "name": "Within 3 years",
+            "value": 4
+        }
+    ],
+    "educationOptions": [
+        {
+            "name": "High School",
+            "value": 1
+        },
+        {
+            "name": "Associate Degree",
+            "value": 2
+        },
+        {
+            "name": "Bachelors",
+            "value": 3
+        },
+        {
+            "name": "Masters",
+            "value": 4
+        },
+        {
+            "name": "Doctrate",
+            "value": 5
+        }
+    ],
+    "truthyOptions": [
+        {
+            "name": "Yes",
+            "value": 1
+        },
+        {
+            "name": "No",
+            "value": 2
+        }
+    ],
+    "employmentOptions": [
+        {
+            "name": "Student",
+            "value": 1
+        },
+        {
+            "name": "Working",
+            "value": 2
+        },
+        {
+            "name": "Unemployed",
+            "value": 3
+        }
+    ],
+    "relocationOptions": [
+        {
+            "name": "Anywhere",
+            "value": 1
+        },
+        {
+            "name": "Specific countries",
+            "value": 2
+        },
+        {
+            "name": "Specific US states",
+            "value": 3
+        },
+        {
+            "name": "No",
+            "value": 4
+        }
+    ],
+    "mixingOptions": [
+        {
+            "name": "Yes, Open",
+            "value": 1
+        },
+        {
+            "name": "Yes, Specific",
+            "value": 2
+        },
+        {
+            "name": "No",
+            "value": 3
+        }
+    ]
+}
