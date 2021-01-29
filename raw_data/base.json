@@ -22,21 +22,7 @@
             "name": "Other",
             "data": 3
         }
-    ],
-    "verificationOptions": [
-        {
-            "name": "Any",
-            "data": 1
-        },
-        {
-            "name": "Tier 1",
-            "data": 2
-        },
-        {
-            "name": "Tier 2",
-            "data": 3
-        }
-    ],    
+    ],     
     "maritialStatusOptions": [
         {
             "name": "Single",
@@ -155,20 +141,16 @@
     ],
     "timelineOptions": [
         {
-            "name": "Flexible",
+            "name": "Within 1 year",
             "data": 1
         },
         {
-            "name": "Within 1 year",
+            "name": "Within 2 years",
             "data": 2
         },
         {
-            "name": "Within 2 years",
-            "data": 3
-        },
-        {
             "name": "Within 3 years",
-            "data": 4
+            "data": 3
         }
     ],
     "educationOptions": [
@@ -214,20 +196,6 @@
         },
         {
             "name": "Unemployed",
-            "data": 3
-        }
-    ],
-    "relocationOptions": [
-        {
-            "name": "Anywhere",
-            "data": 1
-        },
-        {
-            "name": "Specific countries",
-            "data": 2
-        },
-        {
-            "name": "Specific US states",
             "data": 3
         }
     ],
