@@ -1,0 +1,32 @@
+{
+    "habits":[
+       {
+          "name":"Doesn't smoke",
+          "data":1
+       },
+       {
+          "name":"Eats Zabiha Halal only",
+          "data":2
+       },
+       {
+          "name":"Fasts during Ramadhan",
+          "data":3
+       },
+       {
+          "name":"Gives Zakat",
+          "data":4
+       },
+       {
+          "name":"Hijabi",
+          "data":5
+       },
+       {
+          "name":"Prays atleast x3 daily",
+          "data":6
+       },
+       {
+          "name":"Prays x5 daily",
+          "data":7
+       }
+    ]
+ }

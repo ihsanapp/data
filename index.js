@@ -3,6 +3,7 @@ const fs = require("fs");
 const countriesRawData = require("./raw_data/countries.json");
 const statesRawData = require("./raw_data/states.json");
 const baseData = require("./raw_data/base.json");
+const tagsData = require("./raw_data/tags.json");
 
 const processedCountriesData = countriesRawData.map((e) => {
   return {
@@ -22,6 +23,7 @@ const staticData = {
   base: baseData,
   countries: processedCountriesData,
   states: processedStatesData,
+  tags: tagsData,
 };
 
 fs.writeFileSync("data.json", JSON.stringify(staticData));
