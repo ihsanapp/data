@@ -53,67 +53,67 @@
     ],
     "ethnicityOptions": [
         {
-            "name": "Turkish",
+            "name": "African (East African)",
             "data": 1
         },
         {
-            "name": "Pakistani",
+            "name": "African (South African)",
             "data": 2
         },
         {
-            "name": "Indian",
+            "name": "African (West African)",
             "data": 3
         },
         {
-            "name": "Bengali",
+            "name": "African-American",
             "data": 4
         },
         {
-            "name": "Somali",
+            "name": "Arab (Levantine)",
             "data": 5
         },
         {
-            "name": "Arab",
+            "name": "Arab (North Africa)",
             "data": 6
         },
         {
-            "name": "African",
+            "name": "Arab (Penisular)",
             "data": 7
         },
         {
-            "name": "Caucasian",
+            "name": "Asian (Central)",
             "data": 8
         },
         {
-            "name": "Asian",
+            "name": "Asian (East)",
             "data": 9
         },
         {
-            "name": "Persian",
+            "name": "Bengali",
             "data": 10
         },
         {
-            "name": "Latino",
+            "name": "Caribbean",
             "data": 11
         },
         {
-            "name": "Pashto",
+            "name": "Caucasian",
             "data": 12
         },
         {
-            "name": "African-American",
+            "name": "Indian",
             "data": 13
         },
         {
-            "name": "Caribbean",
+            "name": "Indonesian",
             "data": 14
         },
         {
-            "name": "Maldivian",
+            "name": "Latino (North American)",
             "data": 15
         },
         {
-            "name": "Indonesian",
+            "name": "Latino (South American)",
             "data": 16
         },
         {
@@ -121,12 +121,36 @@
             "data": 17
         },
         {
-            "name": "Uyghur",
+            "name": "Maldivian",
             "data": 18
         },
         {
-            "name": "Russian",
+            "name": "Pakistani",
             "data": 19
+        },
+        {
+            "name": "Pashto",
+            "data": 20
+        },
+        {
+            "name": "Persian",
+            "data": 21
+        },
+        {
+            "name": "Russian",
+            "data": 22
+        },
+        {
+            "name": "Somali",
+            "data": 23
+        },
+        {
+            "name": "Turkish",
+            "data": 24
+        },
+        {
+            "name": "Uyghur",
+            "data": 25
         }
     ],
     "timelineOptions": [
